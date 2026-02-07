@@ -20,3 +20,5 @@ Compile and run unit test:
 g++ prefixSum.cpp testPrefixSum.cpp -o test_PrefixSum
 ./test_PrefixSum
 ```
+
+### David Flores
